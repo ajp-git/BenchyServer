@@ -1,0 +1,21 @@
+# Rust
+target/
+
+# Node.js
+node_modules/
+*.log
+
+# Symfony/PHP
+vendor/
+var/
+.env
+.env.local
+
+# Docker
+*.log
+*.pid
+
+# Éditeurs
+.idea/
+*.swp
+*.swo
